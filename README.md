@@ -4,10 +4,9 @@
 
 ## <p class="yes"><b>🌱 About me: </b></p>
 
- - 🎓 Estudiante de <b>Computacion e informatica</b>
- - 💻 Me gusta desarrollar en <b>C#</b> y <b>ASP.NET MVC</b>
- - 🌱 Actualmente en constante crecimiento
- - 🎯 En busca de nuevos retos
+ - Estudiante de <b>informatica</b>
+ - Me gusta desarrollar en <b>Spring Boot</b> y <b>ASP.NET MVC</b>
+ - Practicando constantemente
  
 <br>
 <p align="center">
