@@ -29,8 +29,12 @@
 
 ## 🛠️ <b>Tech Stack</b>
 
+**Back-End:** C#, .NET, Java, Spring Boot  
+**Front-End:** JavaScript, TypeScript  
+**Data Bse:** SQL Server, SQL Server , MongoDB
+
 <b>Lenguajes</b><br>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,java" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,ts,mysql,mongodb" />
 </p>
 
